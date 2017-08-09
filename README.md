@@ -42,7 +42,9 @@ Some visual aspects of the website have been modified. These are the following c
 The code for fresh_tomatoes.py was provided by Udacity.
 
 The template for this README.md was from the following post:
+
 https://discussions.udacity.com/t/readme-files-in-project-1/23524
 
-Other ideas that help with this README.md template came from this GitHub repository:
+Other ideas that help with this README.md came from this GitHub repository:
+
 https://github.com/SteveWooding/movie-website
