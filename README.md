@@ -14,7 +14,7 @@ This program requires python 2.7x to be installed. All libraries are included in
 
 ## Zip File Contents
 
-The zip file "movies.rar" consists of the following file:
+The zip file "movies" consists of the following file:
 
 1. entertainment_center.py
 2. media.py
@@ -24,8 +24,8 @@ The zip file "movies.rar" consists of the following file:
 
 ## How to Run
 
-1. Download zip file movies.rar
-2. Unzip movies.rar
+1. Download zip file "movies.zip"
+2. Unzip "movies.zip"
 3. Open "movies" folder
 4. Double click on or run "entertainment_center.py"
 
