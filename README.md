@@ -19,7 +19,8 @@ The zip file "movies.rar" consists of the following file:
 1. entertainment_center.py
 2. media.py
 3. fresh_tomatoes.py
-4. README.md
+4. info.py
+5. README.md
 
 ## How to Run
 
